@@ -1,14 +1,11 @@
-[{
+[  {
     "name": "OPPO F21s Pro 5G",
     "price": 245.67,
     "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
     "ratings": 4.5,
     "images": [
       {
-        "image": "/images/products/1.jpg"
-      },
-      {
-        "image": "/images/products/2.jpg"
+        "image": "img1.png"
       }
     ],
     "category": "Mobile Phones",
@@ -22,7 +19,7 @@
     "ratings": 3.5,
     "images": [
       {
-        "image": "/images/products/2.jpg"
+        "image": "img2.png"
       }
     ],
     "category": "Accessories",
@@ -36,7 +33,7 @@
     "ratings": 2,
     "images": [
       {
-        "image": "/images/products/3.jpg"
+        "image": "img3.png"
       }
     ],
     "category": "Laptops",
@@ -50,7 +47,7 @@
     "ratings": 4,
     "images": [
       {
-        "image": "/images/products/6.jpg"
+        "image": "img6.png"
       }
     ],
     "category": "Laptops",
@@ -64,7 +61,7 @@
     "ratings": 5,
     "images": [
       {
-        "image": "/images/products/7.jpg"
+        "image": "img7.png"
       }
     ],
     "category": "Laptops",
@@ -78,7 +75,7 @@
     "ratings": 5,
     "images": [
       {
-        "image": "/images/products/4.jpg"
+        "image": "img4.png"
       }
     ],
     "category": "Headphones",
@@ -86,13 +83,13 @@
     "stock": 4
   },
   {
-    "name": "Campus Men's Maxico Running Shoes",
+    "name": "Combo Pack",
     "price": 10.12,
     "description": "The high raised back cover with extra padding.",
     "ratings": 3,
     "images": [
       {
-        "image": "/images/products/5.jpg"
+        "image": "img5.png"
       }
     ],
     "category": "Sports",
